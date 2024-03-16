@@ -1,3 +1,5 @@
+#Section: Nvidia
+
 8.36.80.197
 8.36.80.224
 8.36.80.252
@@ -12,8 +14,7 @@
 8.36.80.246
 8.36.113.116
 8.36.113.139
-8.36.80.244
- 
+8.36.80.244 
 216.228.121.209
 #Sourced from: https://pastebin.com/raw/mm3RtZcD, https://www.reddit.com/r/privacy/comments/euud7u/how_to_prevent_nvidia_from_spyingphoning_home/
 
@@ -56,6 +57,28 @@
 0.0.0.0 api.commune.ly
 0.0.0.0 login.nvgs.nvidia.com
 0.0.0.0 login.nvgs.nvidia.cn
-
 #Sourced from: https://github.com/SilentNightx/GeForce-Experience-Telemetry-Blocker
+
+metrics.nvidia.com
+smetrics.nvidia.com
+stt.nvidia.com
+#Sourced from: https://v.firebog.net/hosts/Easyprivacy.txt
+
+nvidia-graphics-driver-windows-10-32-bit.apponic.com
+  nvidia-graphics-driver-windows-10-64-bit.apponic.com
+  nvidia-graphics-driver-windows-7-32-bit-windows-8-32-bit.apponic.com
+  nvidia-graphics-driver-windows-7-64-bit-windows-8-64-bit.apponic.com
+  nvidia.lookbookhq.com
+  nvidia.mktoweb.com
+  nvidiab2c.mktoweb.com
+  zn8jonxbval6gn2if-nvidia.siteintercept.qualtrics.com
+  nvidia-dev.rpxnow.com
+  nvidia-staging.rpxnow.com
+  nvidia.com.122.2o7.net
+  nvidia.demdex.net
+  nvidia.com.ssl.sc.omtrdc.net
+  nvidia.tt.omtrdc.net
+  urano.nvidia.tt.omtrdc.net
+Sourced from: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+
 
